@@ -1,0 +1,266 @@
+{
+	"location": {
+		"accuracy": 0.01
+	},
+	"matches": [
+		{
+			"frequencyskew": 0.00076544285,
+			"id": "669426538",
+			"offset": 7.751043945,
+			"timeskew": -0.0034752488
+		}
+	],
+	"tagid": "678A2C2D-481F-4AEF-A930-D844EB04CB1E",
+	"timestamp": 1693457208710,
+	"timezone": "Europe/Moscow",
+	"track": {
+		"albumadamid": "1695951888",
+		"artists": [
+			{
+				"adamid": "1635469693",
+				"id": "42"
+			}
+		],
+		"genres": {
+			"primary": "K-Pop"
+		},
+		"highlightsurls": {
+			"artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1635469693/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1696349119",
+			"trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1696349119?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+		},
+		"hub": {
+			"actions": [
+				{
+					"id": "1695951894",
+					"name": "apple",
+					"type": "applemusicplay"
+				},
+				{
+					"name": "apple",
+					"type": "uri",
+					"uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0d/50/ce/0d50cef1-a02b-5172-79aa-4696487ed40b/mzaf_8438745609359331485.plus.aac.p.m4a"
+				}
+			],
+			"displayname": "APPLE MUSIC",
+			"explicit": false,
+			"image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+			"options": [
+				{
+					"actions": [
+						{
+							"name": "hub:applemusic:deeplink",
+							"type": "applemusicopen",
+							"uri": "https://music.apple.com/gb/album/new-jeans/1695951888?i=1695951894&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+						},
+						{
+							"name": "hub:applemusic:deeplink",
+							"type": "uri",
+							"uri": "https://music.apple.com/gb/album/new-jeans/1695951888?i=1695951894&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+						}
+					],
+					"beacondata": {
+						"providername": "applemusic",
+						"type": "open"
+					},
+					"caption": "OPEN IN",
+					"colouroverflowimage": false,
+					"image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+					"listcaption": "Open in Apple Music",
+					"overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+					"providername": "applemusic",
+					"type": "open"
+				},
+				{
+					"actions": [
+						{
+							"type": "uri",
+							"uri": "https://itunes.apple.com/gb/album/new-jeans/1695951888?i=1695951894&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+						}
+					],
+					"beacondata": {
+						"providername": "itunes",
+						"type": "buy"
+					},
+					"caption": "BUY",
+					"colouroverflowimage": false,
+					"image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+					"listcaption": "Buy on iTunes",
+					"overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+					"providername": "itunes",
+					"type": "buy"
+				}
+			],
+			"providers": [
+				{
+					"actions": [
+						{
+							"name": "hub:spotify:searchdeeplink",
+							"type": "uri",
+							"uri": "spotify:search:New%20Jeans%20NewJeans"
+						}
+					],
+					"caption": "Open in Spotify",
+					"images": {
+						"default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png",
+						"overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png"
+					},
+					"type": "SPOTIFY"
+				},
+				{
+					"actions": [
+						{
+							"name": "hub:deezer:searchdeeplink",
+							"type": "uri",
+							"uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27New+Jeans%27%20artist%3A%27NewJeans%27%7D"
+						}
+					],
+					"caption": "Open in Deezer",
+					"images": {
+						"default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png",
+						"overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png"
+					},
+					"type": "DEEZER"
+				}
+			],
+			"type": "APPLEMUSIC"
+		},
+		"images": {
+			"background": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/27/75/6a/27756aad-9020-d361-bfdc-a7a7670f077b/6e15cab0-aa8e-4595-aaa9-f07fed6b66ec_ami-identity-10ffb209545338d630cc58ea79bf639b-2023-07-07T04-29-23.058Z_cropped.png/800x800cc.jpg",
+			"coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/400x400cc.jpg",
+			"coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/400x400cc.jpg",
+			"joecolor": "b:8fc1e2p:000000s:0c244bt:1c272dq:264369"
+		},
+		"isrc": "USA2P2330067",
+		"key": "669426538",
+		"layout": "5",
+		"myshazam": {
+			"apple": {
+				"actions": [
+					{
+						"name": "myshazam:apple",
+						"type": "uri",
+						"uri": "https://music.apple.com/gb/album/new-jeans/1695951888?i=1695951894&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+					}
+				]
+			}
+		},
+		"relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-669426538?startFrom=0&pageSize=20&connected=",
+		"sections": [
+			{
+				"metadata": [
+					{
+						"text": "NewJeans 2nd EP 'Get Up'",
+						"title": "Album"
+					},
+					{
+						"text": "ADOR",
+						"title": "Label"
+					},
+					{
+						"text": "2023",
+						"title": "Released"
+					}
+				],
+				"metapages": [
+					{
+						"caption": "NewJeans",
+						"image": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/27/75/6a/27756aad-9020-d361-bfdc-a7a7670f077b/6e15cab0-aa8e-4595-aaa9-f07fed6b66ec_ami-identity-10ffb209545338d630cc58ea79bf639b-2023-07-07T04-29-23.058Z_cropped.png/800x800cc.jpg"
+					},
+					{
+						"caption": "New Jeans",
+						"image": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/400x400cc.jpg"
+					}
+				],
+				"tabname": "Song",
+				"type": "SONG"
+			},
+			{
+				"beacondata": {
+					"commontrackid": "160769602",
+					"lyricsid": "32696817",
+					"providername": "musixmatch"
+				},
+				"footer": "Writer(s): Frankie Scoca, Erika De Casier, Jin Su Park, Hyun Ji Kim, Fine Glindvad Jensen, Hae Rin Kang\nLyrics powered by www.musixmatch.com",
+				"tabname": "Lyrics",
+				"text": [
+					"Look, it's a new me",
+					"Switched it up, who's this?",
+					"우릴 봐 NewJeans",
+					"So fresh, so clean",
+					"",
+					"얼마나 기다렸던 날",
+					"드디어 time to step out",
+					"또 한 번 더 ready for sure",
+					"To have some more",
+					"",
+					"New hair, new tee",
+					"NewJeans, do you see?",
+					"New hair, new tee",
+					"NewJeans, do you see?",
+					"New hair, new tee",
+					"NewJeans, do you see?",
+					"New hair, new tee",
+					"NewJeans, do you see?",
+					"",
+					"Make it feel like a game",
+					"Look at us, we go on and on again",
+					"We'll go on to the end",
+					"What we wanna do, on and on again",
+					"Make it feel like a game",
+					"Look at us, we go on and on again",
+					"We'll go on to the end",
+					"What we wanna do, on and on again",
+					"",
+					"Look, it's a new me",
+					"Switched it up, who's this?",
+					"들어봐 NewJeans",
+					"So fresh, so clean",
+					"",
+					"얼마나 기다렸던 날",
+					"드디어 feeling's so right",
+					"또 한 번 더 I need to know",
+					"You want some more",
+					"",
+					"New hair, new tee",
+					"NewJeans, you and me",
+					"New hair, new tee",
+					"NewJeans, you and me",
+					"New hair, new tee",
+					"NewJeans, you and me",
+					"New hair, new tee",
+					"NewJeans, you and me"
+				],
+				"type": "LYRICS",
+				"url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/160769602/108/1?token=38be376aec00f52942bc22d47794ced5"
+			},
+			{
+				"tabname": "Video",
+				"type": "VIDEO",
+				"youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/669426538/youtube/video?q=NewJeans+%22New+Jeans%22"
+			},
+			{
+				"tabname": "Related",
+				"type": "RELATED",
+				"url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-669426538?startFrom=0&pageSize=20&connected="
+			}
+		],
+		"share": {
+			"avatar": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/27/75/6a/27756aad-9020-d361-bfdc-a7a7670f077b/6e15cab0-aa8e-4595-aaa9-f07fed6b66ec_ami-identity-10ffb209545338d630cc58ea79bf639b-2023-07-07T04-29-23.058Z_cropped.png/800x800cc.jpg",
+			"href": "https://www.shazam.com/track/669426538/new-jeans",
+			"html": "https://www.shazam.com/snippets/email-share/669426538?lang=en-US&country=GB",
+			"image": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/400x400cc.jpg",
+			"snapchat": "https://www.shazam.com/partner/sc/track/669426538",
+			"subject": "New Jeans - NewJeans",
+			"text": "New Jeans by NewJeans",
+			"twitter": "I used @Shazam to discover New Jeans by NewJeans."
+		},
+		"subtitle": "NewJeans",
+		"title": "New Jeans",
+		"type": "MUSIC",
+		"url": "https://www.shazam.com/track/669426538/new-jeans",
+		"urlparams": {
+			"{trackartist}": "NewJeans",
+			"{tracktitle}": "New+Jeans"
+		}
+	}
+}
